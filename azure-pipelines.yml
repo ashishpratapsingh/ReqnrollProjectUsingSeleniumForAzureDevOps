@@ -7,7 +7,7 @@ trigger:
 - dev
 
 pool:
-  vmImage: 'windows-latest'
+  name: ReqnrollProjectUsingSeleniumForAzureDevOps
 
 variables:
   solution: '**/*.sln'
