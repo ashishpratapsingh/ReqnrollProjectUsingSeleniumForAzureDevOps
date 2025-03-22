@@ -7,7 +7,7 @@ trigger:
 - dev
 
 pool:
-  name: ReqnrollProjectUsingSeleniumForAzureDevOps
+  name: default
 
 variables:
   solution: '**/*.sln'
